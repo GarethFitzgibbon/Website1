@@ -1,0 +1,7 @@
+#body{
+	background-color:blue;
+	width:1400px;
+	height:800px;
+	background-image: url(countdownbackground.jpg);
+	background-size: cover; 
+} 
